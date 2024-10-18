@@ -18,7 +18,7 @@ int main(){
 	printf("The name(string) is %s \n", name);
 	printf("The age (int) is %d \n",age);
 	printf("The salary is %f \n",salary);
-	printf("The aarea is %lf \n",area);
+	printf("The area is %lf \n",area);
 	
 	return 0;
 }
