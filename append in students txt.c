@@ -30,7 +30,7 @@ int main() {
         scanf("%d", &marks);
 
         // Write name and marks to the file
-        fprintf(file, "Student %d: Name = %s\n, Marks = %d\n", i + 1, name, marks);
+        fprintf(file, "Student %d: Name = %s, Marks = %d\n", i + 1, name, marks);
     }
 
     // Close the file
